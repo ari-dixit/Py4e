@@ -1,3 +1,4 @@
+#test
 sh = input('Enter Hours: ')
 sr = input('Enter Rate: ')
 
